@@ -5,7 +5,8 @@
     "host",
     "remote",
     "angular",
-    "players"
+    "players",
+    "vue"
 
   ],
   "dependencies": {},
