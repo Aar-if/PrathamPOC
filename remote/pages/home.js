@@ -24,15 +24,6 @@ const Home = () => {
   };
 
 
-  useEffect(() => {
-    // Fetch initial state on the client
-    const initialState = localStorage.getItem("zustandState");
-    if (initialState) {
-      setValue(JSON.parse(initialState).value);
-    }
-  }, [setValue]);
-
-
   return (
     <Box p={5}>
       <Heading as="h1" size="xl" mb={4}>

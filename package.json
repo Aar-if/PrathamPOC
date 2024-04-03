@@ -6,7 +6,8 @@
     "remote",
     "angular",
     "players",
-    "vue"
+    "vue",
+    "reactapp"
 
   ],
   "dependencies": {},

@@ -1,13 +1,13 @@
 import {create} from 'zustand';
 import { persist } from 'zustand/middleware';
 
-const useStore = create(persist((set) => ({
+const homeStore = create(persist((set) => ({
   value: '',
   setValue: (newValue) => set((state) => ({ value: newValue })),
 }), {
-  name: 'remoteZustand', 
+  name: 'reactappZustand', 
   getStorage: () => localStorage, 
 }));
 
 
-export default useStore ;
+export default homeStore ;
