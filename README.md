@@ -7,10 +7,9 @@ Run all the modules from root : npm start
 
 player runs on  :  http://127.0.0.1:5000
 
-remote runs on  :  http://localhost:3001
+remote runs on  :  http://localhost:5001
 
-host runs on    :  http://localhost:3000
+host runs on    :  http://localhost:5002
 
-angular runs on :  http://localhost:4200
+reactapp runs on    :  http://localhost:3000
 
-vuejs runs on   :  http://localhost:4001
