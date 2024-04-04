@@ -20,7 +20,7 @@ const Home = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setValue(inputValue);
-    router.push("/about");
+    router.push("/About");
   };
 
 
