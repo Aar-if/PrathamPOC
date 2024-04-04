@@ -10,7 +10,7 @@ import dynamic from "next/dynamic";
 
 const HostComponent = dynamic(() => import("host/SearchBox"), { ssr: false });
 
-function index() {
+function Index() {
   const [filteredCards, setFilteredCards] = useState(initialCardDataArray);
   const [currentPage, setCurrentPage] = useState(1);
 
@@ -70,4 +70,4 @@ function index() {
   );
 }
 
-export default index;
+export default Index;

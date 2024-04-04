@@ -14,7 +14,7 @@ module.exports = () => ({
           name: "reactapp",
           filename: "remoteEntry.js",
           exposes: {
-            "./Sample": "./src/components/Sample"
+            "./Sample": "./src/components/Sample",
           },
           shared: {
             ...deps,

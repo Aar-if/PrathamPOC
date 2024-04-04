@@ -3,7 +3,7 @@ import React from "react";
 import useStore from "@/stores/store";
 import { Box, Heading } from "@chakra-ui/react";
 
-const about = () => {
+const About = () => {
   const store = useStore();
   console.log(store);
   return (
@@ -14,4 +14,4 @@ const about = () => {
   );
 };
 
-export default about;
+export default About;

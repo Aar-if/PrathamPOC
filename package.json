@@ -4,9 +4,7 @@
   "workspaces": [
     "host",
     "remote",
-    "angular",
     "players",
-    "vue",
     "reactapp"
 
   ],
@@ -15,6 +13,7 @@
     "lerna": "^8.1.2"
   },
   "scripts": {
-    "start": "lerna run start --parallel"
+    "start": "lerna run start --parallel",
+    "build": "lerna run build"
   }
 }

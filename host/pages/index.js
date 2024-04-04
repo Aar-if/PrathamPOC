@@ -1,10 +1,12 @@
 import React from "react";
 import dynamic from "next/dynamic";
 
-const RemoteComponent = dynamic(() => import("remote/index"), { ssr: false });
+const RemoteComponent = dynamic(() => import("remote/Index"), { ssr: false });
 const Sample = dynamic(() => import("reactapp/Sample"), { ssr: false });
 
-function index() {
+
+function Index() {
+
   return (
     <>
       <RemoteComponent />
@@ -15,4 +17,4 @@ function index() {
   );
 }
 
-export default index;
+export default Index;

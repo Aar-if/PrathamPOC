@@ -31,7 +31,8 @@ const nextConfig = {
         //   automaticAsyncBoundary: true,
         // },
         exposes: {
-          "./index": "./pages/index.js",
+          "./Index": "./pages/index.js",
+          
           
         },
         shared: {
