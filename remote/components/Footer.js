@@ -1,5 +1,6 @@
 import React from "react";
-import { Box, Image, Link } from "@chakra-ui/react";
+import { Box, Link } from "@chakra-ui/react";
+import Image from "next/image";
 
 function Footer() {
   const CONTENT_APP_URL = process.env.NEXT_PUBLIC_CONTENT_APP_URL;
@@ -23,7 +24,7 @@ function Footer() {
         DEVELOPED BY
       </Link>
       <Image
-        src={`${CONTENT_APP_URL}/tekdiLogo.png`}
+        src={`/tekdiLogo.png`}
         width={50}
         height={50}
         alt="Picture of the author"

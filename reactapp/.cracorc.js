@@ -19,6 +19,8 @@ module.exports = () => ({
           filename: "remoteEntry.js",
           exposes: {
             "./Sample": "./src/components/Sample",
+            "./Observation": "./src/components/Observation",
+            "./Player": "./src/pages/Player"
           },
           shared: {
             ...deps,

@@ -1,0 +1,4265 @@
+{
+  "id": "remote",
+  "name": "remote",
+  "metaData": {
+    "name": "remote",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "local",
+      "buildName": "remote"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "remote",
+    "pluginVersion": "0.1.6",
+    "publicPath": "/_next/"
+  },
+  "shared": [
+    {
+      "id": "remote:@chakra-ui/accordion",
+      "name": "@chakra-ui/accordion",
+      "version": "2.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/alert",
+      "name": "@chakra-ui/alert",
+      "version": "2.2.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/anatomy",
+      "name": "@chakra-ui/anatomy",
+      "version": "2.2.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/avatar",
+      "name": "@chakra-ui/avatar",
+      "version": "2.3.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/breadcrumb",
+      "name": "@chakra-ui/breadcrumb",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/breakpoint-utils",
+      "name": "@chakra-ui/breakpoint-utils",
+      "version": "2.0.8",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/button",
+      "name": "@chakra-ui/button",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/card",
+      "name": "@chakra-ui/card",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/checkbox",
+      "name": "@chakra-ui/checkbox",
+      "version": "2.3.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/clickable",
+      "name": "@chakra-ui/clickable",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/close-button",
+      "name": "@chakra-ui/close-button",
+      "version": "2.1.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/color-mode",
+      "name": "@chakra-ui/color-mode",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/control-box",
+      "name": "@chakra-ui/control-box",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/counter",
+      "name": "@chakra-ui/counter",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/css-reset",
+      "name": "@chakra-ui/css-reset",
+      "version": "2.3.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/descendant",
+      "name": "@chakra-ui/descendant",
+      "version": "3.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/dom-utils",
+      "name": "@chakra-ui/dom-utils",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/editable",
+      "name": "@chakra-ui/editable",
+      "version": "3.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/event-utils",
+      "name": "@chakra-ui/event-utils",
+      "version": "2.0.8",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/focus-lock",
+      "name": "@chakra-ui/focus-lock",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/form-control",
+      "name": "@chakra-ui/form-control",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/hooks",
+      "name": "@chakra-ui/hooks",
+      "version": "2.2.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/icon",
+      "name": "@chakra-ui/icon",
+      "version": "3.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/icons",
+      "name": "@chakra-ui/icons",
+      "version": "2.1.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/image",
+      "name": "@chakra-ui/image",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/input",
+      "name": "@chakra-ui/input",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/layout",
+      "name": "@chakra-ui/layout",
+      "version": "2.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/lazy-utils",
+      "name": "@chakra-ui/lazy-utils",
+      "version": "2.0.5",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/media-query",
+      "name": "@chakra-ui/media-query",
+      "version": "3.3.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/menu",
+      "name": "@chakra-ui/menu",
+      "version": "2.2.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/modal",
+      "name": "@chakra-ui/modal",
+      "version": "2.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/number-input",
+      "name": "@chakra-ui/number-input",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/number-utils",
+      "name": "@chakra-ui/number-utils",
+      "version": "2.0.7",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/object-utils",
+      "name": "@chakra-ui/object-utils",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/pin-input",
+      "name": "@chakra-ui/pin-input",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/popover",
+      "name": "@chakra-ui/popover",
+      "version": "2.2.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/popper",
+      "name": "@chakra-ui/popper",
+      "version": "3.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/portal",
+      "name": "@chakra-ui/portal",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/progress",
+      "name": "@chakra-ui/progress",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/provider",
+      "name": "@chakra-ui/provider",
+      "version": "2.4.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/radio",
+      "name": "@chakra-ui/radio",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-children-utils",
+      "name": "@chakra-ui/react-children-utils",
+      "version": "2.0.6",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-context",
+      "name": "@chakra-ui/react-context",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-env",
+      "name": "@chakra-ui/react-env",
+      "version": "3.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-animation-state",
+      "name": "@chakra-ui/react-use-animation-state",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-callback-ref",
+      "name": "@chakra-ui/react-use-callback-ref",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-controllable-state",
+      "name": "@chakra-ui/react-use-controllable-state",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-disclosure",
+      "name": "@chakra-ui/react-use-disclosure",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-event-listener",
+      "name": "@chakra-ui/react-use-event-listener",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-focus-effect",
+      "name": "@chakra-ui/react-use-focus-effect",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-focus-on-pointer-down",
+      "name": "@chakra-ui/react-use-focus-on-pointer-down",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-interval",
+      "name": "@chakra-ui/react-use-interval",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-latest-ref",
+      "name": "@chakra-ui/react-use-latest-ref",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-merge-refs",
+      "name": "@chakra-ui/react-use-merge-refs",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-outside-click",
+      "name": "@chakra-ui/react-use-outside-click",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-pan-event",
+      "name": "@chakra-ui/react-use-pan-event",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-previous",
+      "name": "@chakra-ui/react-use-previous",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-safe-layout-effect",
+      "name": "@chakra-ui/react-use-safe-layout-effect",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-size",
+      "name": "@chakra-ui/react-use-size",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-timeout",
+      "name": "@chakra-ui/react-use-timeout",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-use-update-effect",
+      "name": "@chakra-ui/react-use-update-effect",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react-utils",
+      "name": "@chakra-ui/react-utils",
+      "version": "2.0.12",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/react",
+      "name": "@chakra-ui/react",
+      "version": "2.8.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/select",
+      "name": "@chakra-ui/select",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/shared-utils",
+      "name": "@chakra-ui/shared-utils",
+      "version": "2.0.5",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/skeleton",
+      "name": "@chakra-ui/skeleton",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/skip-nav",
+      "name": "@chakra-ui/skip-nav",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/slider",
+      "name": "@chakra-ui/slider",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/spinner",
+      "name": "@chakra-ui/spinner",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/stat",
+      "name": "@chakra-ui/stat",
+      "version": "2.1.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/stepper",
+      "name": "@chakra-ui/stepper",
+      "version": "2.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/styled-system",
+      "name": "@chakra-ui/styled-system",
+      "version": "2.9.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/switch",
+      "name": "@chakra-ui/switch",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/system",
+      "name": "@chakra-ui/system",
+      "version": "2.6.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/table",
+      "name": "@chakra-ui/table",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/tabs",
+      "name": "@chakra-ui/tabs",
+      "version": "3.0.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/tag",
+      "name": "@chakra-ui/tag",
+      "version": "3.1.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/textarea",
+      "name": "@chakra-ui/textarea",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/theme-tools",
+      "name": "@chakra-ui/theme-tools",
+      "version": "2.1.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/theme-utils",
+      "name": "@chakra-ui/theme-utils",
+      "version": "2.0.21",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/theme",
+      "name": "@chakra-ui/theme",
+      "version": "3.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/toast",
+      "name": "@chakra-ui/toast",
+      "version": "7.0.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/tooltip",
+      "name": "@chakra-ui/tooltip",
+      "version": "2.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/transition",
+      "name": "@chakra-ui/transition",
+      "version": "2.1.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/utils",
+      "name": "@chakra-ui/utils",
+      "version": "2.0.15",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@chakra-ui/visually-hidden",
+      "name": "@chakra-ui/visually-hidden",
+      "version": "2.2.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/cache",
+      "name": "@emotion/cache",
+      "version": "11.11.0",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/hash",
+      "name": "@emotion/hash",
+      "version": "0.9.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/is-prop-valid",
+      "name": "@emotion/is-prop-valid",
+      "version": "1.2.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/memoize",
+      "name": "@emotion/memoize",
+      "version": "0.8.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.11.4",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/serialize",
+      "name": "@emotion/serialize",
+      "version": "1.1.4",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/sheet",
+      "name": "@emotion/sheet",
+      "version": "1.2.2",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.11.5",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/unitless",
+      "name": "@emotion/unitless",
+      "version": "0.8.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/use-insertion-effect-with-fallbacks",
+      "name": "@emotion/use-insertion-effect-with-fallbacks",
+      "version": "1.0.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/utils",
+      "name": "@emotion/utils",
+      "version": "1.2.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "remote:@emotion/weak-memoize",
+      "name": "@emotion/weak-memoize",
+      "version": "0.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "953-b96b02b3fbfa0685.js",
+            "368-8e7db26ce6b52749.js",
+            "965-6610a8f104d52cab.js",
+            "106-54d09c65bd87f85f.js",
+            "715-67a792ec937e2ac5.js",
+            "133-16346601227b605d.js",
+            "589-1c55ae55371dbd1e.js",
+            "__federation_expose_noop-09cff5b413a76ed5.js",
+            "__federation_expose_react-2d64c19ecea9001b.js",
+            "__federation_expose_react_dom-786784613172d3bb.js",
+            "__federation_expose_next__router-e8078e073b7d4211.js",
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "sync": [
+            "../pages/_document.js",
+            "../webpack-runtime.js",
+            "../pages/_app.js",
+            "../pages/_error.js",
+            "../pages/Home.js",
+            "../pages/About.js",
+            "../pages/index.js",
+            "../remote_partial.js",
+            "remoteEntry.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/dynamic",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/dynamic",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "953-b96b02b3fbfa0685.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./Index"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/head",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/head",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "368-8e7db26ce6b52749.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/image",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/image",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "965-6610a8f104d52cab.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/link",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/link",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "106-54d09c65bd87f85f.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/router",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/router",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "715-67a792ec937e2ac5.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^14.2.1",
+      "shareScope": "default",
+      "name": "next/script",
+      "version": "14.2.1",
+      "eager": false,
+      "id": "remote:next/script",
+      "assets": {
+        "js": {
+          "async": [
+            "540-bb89b0c502f169ec.js"
+          ],
+          "sync": [
+            "133-16346601227b605d.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.2.0",
+      "shareScope": "default",
+      "name": "react/jsx-runtime",
+      "version": "18.2.0",
+      "eager": false,
+      "id": "remote:react/jsx-runtime",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "540-bb89b0c502f169ec.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./Index"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^5.1.1",
+      "shareScope": "default",
+      "name": "styled-jsx",
+      "version": "5.1.1",
+      "eager": false,
+      "id": "remote:styled-jsx",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "589-1c55ae55371dbd1e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [
+    {
+      "alias": "host",
+      "consumingFederationContainerName": "remote",
+      "federationContainerName": "host",
+      "moduleName": "SearchBox",
+      "usedIn": [
+        "pages/index.js"
+      ],
+      "entry": "http://testinpinite.s3-website.ap-south-1.amazonaws.com/_next/static/ssr/remoteEntry.js"
+    }
+  ],
+  "exposes": [
+    {
+      "path": "./noop",
+      "id": "remote:noop",
+      "name": "noop",
+      "requires": [],
+      "file": "..\\node_modules\\@module-federation\\nextjs-mf\\dist\\src\\federation-noop.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_noop-09cff5b413a76ed5.js"
+          ],
+          "async": [
+            "715-67a792ec937e2ac5.js",
+            "368-8e7db26ce6b52749.js",
+            "106-54d09c65bd87f85f.js",
+            "133-16346601227b605d.js",
+            "965-6610a8f104d52cab.js",
+            "953-b96b02b3fbfa0685.js",
+            "589-1c55ae55371dbd1e.js",
+            "540-bb89b0c502f169ec.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./react",
+      "id": "remote:react",
+      "name": "react",
+      "requires": [],
+      "file": "..\\node_modules\\react\\index.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_react-2d64c19ecea9001b.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./react-dom",
+      "id": "remote:react-dom",
+      "name": "react-dom",
+      "requires": [],
+      "file": "..\\node_modules\\react-dom\\index.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_react_dom-786784613172d3bb.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./next/router",
+      "id": "remote:next/router",
+      "name": "next/router",
+      "requires": [],
+      "file": "..\\node_modules\\next\\router.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_next__router-e8078e073b7d4211.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./Index",
+      "id": "remote:Index",
+      "name": "Index",
+      "requires": [
+        "react/jsx-runtime",
+        "next/dynamic"
+      ],
+      "file": "pages\\index.js",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_Index-771eef5ed0f2953b.js"
+          ],
+          "async": [
+            "540-bb89b0c502f169ec.js",
+            "965-6610a8f104d52cab.js",
+            "953-b96b02b3fbfa0685.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

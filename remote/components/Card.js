@@ -1,18 +1,11 @@
 import React, { useState } from "react";
-import { Box, Image, Heading, Text, VStack } from "@chakra-ui/react";
-import { motion } from "framer-motion";
+import { Box, Heading, Text, VStack } from "@chakra-ui/react";
 import CardDescription from "./CardDescription";
 import RatingStars from "./RatingStars";
-
-const MotionBox = motion(Box);
+import Image from 'next/image'
 
 function AnimatedCard({ cardData }) {
   const [isDescriptionOpen, setIsDescriptionOpen] = useState(false);
-
-  const fadeInAnimation = {
-    hidden: { opacity: 0, y: 200 },
-    visible: { opacity: 5, y: 0, transition: { duration: 0.8 } },
-  };
 
   const handleCardClick = () => {
     setIsDescriptionOpen(true);
@@ -24,12 +17,12 @@ function AnimatedCard({ cardData }) {
 
   return (
     <>
-      <MotionBox
+      <Box
         borderRadius="md"
         backgroundColor="white"
         initial="hidden"
         animate="visible"
-        variants={fadeInAnimation}
+     
         borderWidth="1px"
         overflow="hidden"
         p={4}
@@ -40,7 +33,7 @@ function AnimatedCard({ cardData }) {
         cursor="pointer"
       >
         <Card cardData={cardData} />
-      </MotionBox>
+      </Box>
       <CardDescription
         cardData={cardData}
         isOpen={isDescriptionOpen}
@@ -56,9 +49,9 @@ function Card({ cardData }) {
       <Image
         src={cardData.imageSrc}
         alt={cardData.title}
-        w="100%"
-        h="auto"
-        maxHeight="250px"
+        width={500}
+        height={500}
+        maxheight="250px"
       />
       <Box p="6">
         <Heading as="h4" size="md" color="black">

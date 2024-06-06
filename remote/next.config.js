@@ -6,12 +6,18 @@ const CONTENT_APP_URL =
 const remotes = (isServer) => {
   const location = isServer ? "ssr" : "chunks";
   return {
-    host: `host@${CONTENT_APP_URL}/_next/static/${location}/remoteEntry.js`,
+    // host: `host@https://d5plzs9rajy75.cloudfront.net/_next/static/${location}/remoteEntry.js`,
+     host: `host@http://localhost:5001/_next/static/${location}/remoteEntry.js`,
   };
 };
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  distDir: 'build',
+  images: {
+    unoptimized: true,
+  },
   reactStrictMode: true,
   experimental: {
     esmExternals: false,

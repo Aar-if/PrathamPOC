@@ -1,5 +1,6 @@
 import React from "react";
-import { Container, Navbar, Image } from "react-bootstrap";
+import { Container, Navbar } from "react-bootstrap";
+import Image from "next/image";
 
 function Header() {
   const CONTENT_APP_URL = process.env.NEXT_PUBLIC_CONTENT_APP_URL;
@@ -16,7 +17,7 @@ function Header() {
       <Container>
         <Navbar.Brand href="#home">
           <Image
-            src={`${CONTENT_APP_URL}/tekdiLogo.png`}
+            src={`/tekdiLogo.png`}
             alt="Forum Logo"
             marginright="2"
             width={50}

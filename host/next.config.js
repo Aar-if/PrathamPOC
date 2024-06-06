@@ -1,4 +1,6 @@
 const { NextFederationPlugin } = require("@module-federation/nextjs-mf");
+const path = require('path');
+
 
 const CONTENT_APP_URL =
   process.env.NEXT_PUBLIC_REMOTE_APP_URL || "http://localhost:5002";
@@ -9,13 +11,21 @@ const CONTENT_APP_URL =
 const remotes = (isServer) => {
   const location = isServer ? "ssr" : "chunks";
   return {
-    remote: `remote@${CONTENT_APP_URL}/_next/static/${location}/remoteEntry.js`,
-    reactapp: `reactapp@${REACT_APP_URL}/remoteEntry.js`,
+    // remote: `remote@https://d5plzs9rajy75.cloudfront.net/remote/_next/static/${location}/remoteEntry.js`,
+    // reactapp: `reactapp@https://d5plzs9rajy75.cloudfront.net/react/remoteEntry.js`,
+   remote: `remote@http://localhost:5002/_next/static/${location}/remoteEntry.js`,
+   reactapp: `reactapp@http://localhost:3000/remoteEntry.js`,
   };
+
 };
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  distDir: 'build',
+  images: {
+    unoptimized: true,
+  },
   reactStrictMode: true,
   experimental: {
     esmExternals: false,
